@@ -1,0 +1,7 @@
+{
+  "name": "Hamburgueria SP - Gourmet Experience",
+  "description": "A premium burger landing page with an AI-powered custom burger assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
