@@ -13,7 +13,7 @@ const Header: React.FC = () => {
           <div className="text-primary transform group-hover:rotate-12 transition-transform">
             <BurgerIcon size={34} strokeWidth={2.5} />
           </div>
-          <h1 className="text-xl font-black tracking-tight text-white">Hamburgueria SP</h1>
+          <h1 className="text-xl font-black tracking-tight text-white">Brasa Nobre</h1>
         </div>
 
         {/* Desktop Nav */}
